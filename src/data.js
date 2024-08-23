@@ -31,7 +31,7 @@ export const PLAY_DATA = [
     },
     {
         type: "Country",
-        value: "Bangaldesh",
+        value: "Bangladesh",
         hint: ""
     }
 ]
